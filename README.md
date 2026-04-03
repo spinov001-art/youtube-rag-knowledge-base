@@ -169,9 +169,9 @@ llm:
 
 - [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 77 free web scraping tools
 - [youtube-data-tools](https://github.com/spinov001-art/youtube-data-tools) — YouTube scrapers on Apify
-- [Innertube API Tutorial](https://dev.to/0012303) — How the Innertube API works
+- [Innertube API Tutorial](https://github.com/spinov001-art/youtube-innertube-toolkit) — How the Innertube API works
 - [API Scraping Templates](https://github.com/spinov001-art/api-scraping-templates) — 20+ ready-to-use Python templates
-- [Replace $200/mo AI Pipeline](https://dev.to/0012303/i-replaced-a-200month-ai-training-data-pipeline-with-50-lines-of-python-27f2) — arXiv + Crossref for research monitoring
+- [Replace $200/mo AI Pipeline](https://github.com/spinov001-art/youtube-rag-knowledge-base) — arXiv + Crossref for research monitoring
 
 ## Need Custom Data Extraction?
 
